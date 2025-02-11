@@ -1,19 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="574" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="610" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="1672d66443f91eb5-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;MyTrips Package&lt;/b&gt;&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=#dae8fc;fontSize=12;align=center;labelX=327.64;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="430" y="250" width="550" height="480" as="geometry" />
-        </mxCell>
-        <mxCell id="rpGsWSdBKoxRbKyVbrdc-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="705" y="480" />
-            </Array>
-            <mxPoint x="650.0000000000002" y="480" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="rpGsWSdBKoxRbKyVbrdc-18" value="Use" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="rpGsWSdBKoxRbKyVbrdc-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -51,7 +43,7 @@
         <mxCell id="rpGsWSdBKoxRbKyVbrdc-27" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=180;entryDy=50;entryPerimeter=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="rpGsWSdBKoxRbKyVbrdc-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mYBw2nLS5FL1NnaMzwbi-2" value="MyTripFriendNameAdapter" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mYBw2nLS5FL1NnaMzwbi-2" value="MyTripFriendNameAdapter" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="750" y="520" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
