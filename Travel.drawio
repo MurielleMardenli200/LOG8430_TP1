@@ -70,6 +70,9 @@
         <mxCell id="a-KvQM7AsemI5AxW7bN--12" value="Models" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="110" y="510" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="a-KvQM7AsemI5AxW7bN--20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="a-KvQM7AsemI5AxW7bN--13" target="a-KvQM7AsemI5AxW7bN--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a-KvQM7AsemI5AxW7bN--13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;Presenter&lt;/b&gt;&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;fontSize=12;align=center;labelX=327.64;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="230" height="430" as="geometry" />
         </mxCell>
@@ -81,6 +84,9 @@
         </mxCell>
         <mxCell id="a-KvQM7AsemI5AxW7bN--18" value="UtilitiesHandler" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="440" y="619" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-KvQM7AsemI5AxW7bN--19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="a-KvQM7AsemI5AxW7bN--2" target="a-KvQM7AsemI5AxW7bN--13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
