@@ -54,7 +54,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZkWzsnqYDjrDtzkP9cSd-1" value="MyTripsUI" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="ZkWzsnqYDjrDtzkP9cSd-1" value="MyTripsUI" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="485" y="420" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZkWzsnqYDjrDtzkP9cSd-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=170;entryDy=40;entryPerimeter=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="ZkWzsnqYDjrDtzkP9cSd-1">
