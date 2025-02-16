@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="542" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="1672d66443f91eb5-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;Destination Package&lt;/b&gt;&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=#dae8fc;fontSize=12;align=center;labelX=327.64;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="470" y="250" width="496.15" height="340" as="geometry" />
+          <mxGeometry x="330" y="280" width="740" height="310" as="geometry" />
         </mxCell>
         <mxCell id="rpGsWSdBKoxRbKyVbrdc-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="rpGsWSdBKoxRbKyVbrdc-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -14,26 +14,42 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpGsWSdBKoxRbKyVbrdc-18" value="Use" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="rpGsWSdBKoxRbKyVbrdc-11" edge="1">
+        <mxCell id="rpGsWSdBKoxRbKyVbrdc-18" value="Import" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="rpGsWSdBKoxRbKyVbrdc-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="705" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpGsWSdBKoxRbKyVbrdc-1" value="CityAdapter" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="b3yFTPS6AKRXHzLqZ-pD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-10" value="Import" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="b3yFTPS6AKRXHzLqZ-pD-6">
+          <mxGeometry x="0.1509" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="b3yFTPS6AKRXHzLqZ-pD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-12" value="Import" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="b3yFTPS6AKRXHzLqZ-pD-7">
+          <mxGeometry x="0.0855" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rpGsWSdBKoxRbKyVbrdc-1" value="Destination UI" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="630" y="320" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rpGsWSdBKoxRbKyVbrdc-3" value="FinalCityInfoActivity" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" parent="1" vertex="1">
-          <mxGeometry x="535" y="440" width="130" height="60" as="geometry" />
+        <mxCell id="rpGsWSdBKoxRbKyVbrdc-3" value="RestaurantsInfo" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="535" y="430" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rpGsWSdBKoxRbKyVbrdc-4" value="FunFactsActivity" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="rpGsWSdBKoxRbKyVbrdc-4" value="FunFacts" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="540" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rpGsWSdBKoxRbKyVbrdc-7" value="WeatherActivity" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="rpGsWSdBKoxRbKyVbrdc-7" value="WeatherInfo" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="740" y="520" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rpGsWSdBKoxRbKyVbrdc-11" value="TweetsActivity" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="rpGsWSdBKoxRbKyVbrdc-11" value="MonumentsInfo" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="740" y="430" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rpGsWSdBKoxRbKyVbrdc-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=40;entryPerimeter=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="rpGsWSdBKoxRbKyVbrdc-7" edge="1">
@@ -41,6 +57,12 @@
         </mxCell>
         <mxCell id="rpGsWSdBKoxRbKyVbrdc-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=120;entryDy=50;entryPerimeter=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="rpGsWSdBKoxRbKyVbrdc-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-1" value="HangoutInfo" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="880" y="320" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-2" value="ShoppingInfo" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
