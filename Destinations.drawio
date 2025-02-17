@@ -21,23 +21,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="b3yFTPS6AKRXHzLqZ-pD-1">
+        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="b3yFTPS6AKRXHzLqZ-pD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-10" value="Import" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="b3yFTPS6AKRXHzLqZ-pD-6">
+        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-10" value="Import" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="b3yFTPS6AKRXHzLqZ-pD-6" vertex="1" connectable="0">
           <mxGeometry x="0.1509" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="b3yFTPS6AKRXHzLqZ-pD-2">
+        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="b3yFTPS6AKRXHzLqZ-pD-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-12" value="Import" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="b3yFTPS6AKRXHzLqZ-pD-7">
+        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-12" value="Import" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="b3yFTPS6AKRXHzLqZ-pD-7" vertex="1" connectable="0">
           <mxGeometry x="0.0855" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpGsWSdBKoxRbKyVbrdc-1" value="Destination UI" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="rpGsWSdBKoxRbKyVbrdc-1" value="Destination" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="630" y="320" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rpGsWSdBKoxRbKyVbrdc-3" value="RestaurantsInfo" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -58,10 +58,10 @@
         <mxCell id="rpGsWSdBKoxRbKyVbrdc-26" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=120;entryDy=50;entryPerimeter=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="rpGsWSdBKoxRbKyVbrdc-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-1" value="HangoutInfo" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-1" value="HangoutInfo" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="880" y="320" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-2" value="ShoppingInfo" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="b3yFTPS6AKRXHzLqZ-pD-2" value="ShoppingInfo" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="360" y="320" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
