@@ -20,14 +20,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vHEJ2mjDgrmk9DOi0qN0-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="rpGsWSdBKoxRbKyVbrdc-1" target="vHEJ2mjDgrmk9DOi0qN0-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vHEJ2mjDgrmk9DOi0qN0-3" value="Access" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="vHEJ2mjDgrmk9DOi0qN0-2">
-          <mxGeometry x="0.0573" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rpGsWSdBKoxRbKyVbrdc-1" value="MyTrips" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="590" y="470" width="150" height="60" as="geometry" />
         </mxCell>
@@ -44,9 +36,6 @@
           <mxGeometry x="-0.112" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vHEJ2mjDgrmk9DOi0qN0-1" value="Destination" style="shape=folder;fontStyle=1;tabWidth=40;tabHeight=20;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="830" y="470" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
